@@ -194,7 +194,7 @@ def open_about_page():      # about page
     # about_window.iconphoto(False, icon)
 
     # Create a link to the GitHub repository
-    github_link = tb.Label(about_window, text="github.com/mohdsaqib07/real-time-voice-translator", underline=True, foreground="blue", cursor="hand2")
+    github_link = tb.Label(about_window, text="https://github.com/mohdsaqib07/real-time-voice-translator", underline=True, foreground="blue", cursor="hand2")
     github_link.bind("<Button-1>", lambda e: open_webpage("https://github.com/mohdsaqib07/real-time-voice-translator"))
     github_link.pack()
 

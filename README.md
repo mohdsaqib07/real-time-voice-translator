@@ -42,8 +42,8 @@ The application is easy to use: simply select the languages you want to translat
 
 ### Program Flow:
 
-<a href="#"><img src="https://github.com/SamirPaulb/real-time-voice-translator/assets/77569653/73dd62d6-798d-4129-aff3-16d6d932a817" alt="Block Diagram of Voice Translator"></a>
+<a href="#"><img src="./programflow.png" alt="Block Diagram of Voice Translator"></a>
 
 ### GUI
 
-<a href="#"><img src="https://github.com/SamirPaulb/real-time-voice-translator/assets/77569653/f96a4115-a88f-4096-9a00-954b8527d872" alt="App GUI"></a>
+<a href="#"><img src="./gui.png" alt="App GUI"></a>
